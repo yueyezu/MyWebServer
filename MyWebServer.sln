@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebServer", "MyWebServer\MyWebServer.csproj", "{BCBE2762-3860-4B10-9991-B06ADBD9F43A}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Debug|x86.ActiveCfg = Debug|x86
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Debug|x86.Build.0 = Debug|x86
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Release|x86.ActiveCfg = Release|x86
+		{BCBE2762-3860-4B10-9991-B06ADBD9F43A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
